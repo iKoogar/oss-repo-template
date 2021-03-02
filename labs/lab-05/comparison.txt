@@ -1,0 +1,16 @@
+no difference between dynamic_block and static_block. not sure what i did wrong
+
+drwxrwxrwx 1 zach zach  4096 Mar  2 04:55 .
+drwxrwxrwx 1 zach zach  4096 Mar  1 23:27 ..
+-rwxrwxrwx 1 zach zach     0 Mar  1 23:03 CMakeLists.txt
+-rwxrwxrwx 1 zach zach   650 Mar  2 04:50 Makefile
+-rwxrwxrwx 1 zach zach   335 Jan 28 14:49 README.md
+-rwxrwxrwx 1 zach zach  6616 Mar  2 04:46 block.o
+-rwxrwxrwx 1 zach zach 11512 Mar  2 04:46 dynamic_block
+drwxrwxrwx 1 zach zach  4096 Feb 26 17:03 headers
+-rwxrwxrwx 1 zach zach 10800 Mar  2 04:46 libblock.so
+-rwxrwxrwx 1 zach zach  6764 Mar  2 04:46 libstaticblock.a
+-rwxrwxrwx 1 zach zach  8464 Mar  2 04:50 out
+-rwxrwxrwx 1 zach zach    92 Mar  2 04:41 program.c
+drwxrwxrwx 1 zach zach  4096 Feb 26 17:03 source
+-rwxrwxrwx 1 zach zach 11512 Mar  2 04:46 static_block
