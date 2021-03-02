@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/koog/OneDrive/Documents/2021Sp/Open Source Software/oss-repo-template/labs/lab-05/Step2/MathFunctions/MathFunctions.h
+
+/mnt/c/Users/koog/OneDrive/Documents/2021Sp/Open Source Software/oss-repo-template/labs/lab-05/Step2/tutorial.cxx
+cmath
+-
+iostream
+-
+string
+-
+TutorialConfig.h
+/mnt/c/Users/koog/OneDrive/Documents/2021Sp/Open Source Software/oss-repo-template/labs/lab-05/Step2/TutorialConfig.h
+MathFunctions.h
+/mnt/c/Users/koog/OneDrive/Documents/2021Sp/Open Source Software/oss-repo-template/labs/lab-05/Step2/MathFunctions.h
+
+TutorialConfig.h
+

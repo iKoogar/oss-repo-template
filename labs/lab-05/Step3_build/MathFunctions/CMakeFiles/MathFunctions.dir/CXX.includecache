@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/koog/OneDrive/Documents/2021Sp/Open Source Software/oss-repo-template/labs/lab-05/Step3/MathFunctions/MathFunctions.h
+
+/mnt/c/Users/koog/OneDrive/Documents/2021Sp/Open Source Software/oss-repo-template/labs/lab-05/Step3/MathFunctions/mysqrt.cxx
+iostream
+-
+MathFunctions.h
+/mnt/c/Users/koog/OneDrive/Documents/2021Sp/Open Source Software/oss-repo-template/labs/lab-05/Step3/MathFunctions/MathFunctions.h
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/koog/OneDrive/Documents/2021Sp/Open Source Software/oss-repo-template/labs/lab-05/Step1/tutorial.cxx
+cmath
+-
+iostream
+-
+string
+-
+TutorialConfig.h
+/mnt/c/Users/koog/OneDrive/Documents/2021Sp/Open Source Software/oss-repo-template/labs/lab-05/Step1/TutorialConfig.h
+
+TutorialConfig.h
+
